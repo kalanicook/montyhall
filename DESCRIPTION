@@ -1,0 +1,12 @@
+Package: montyhall
+Title: Monty Hall Problem (3 Doors - 2 Goats & 1 Car)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kalani", "Cook", , "kalaniacook@gmail.com", role = c("aut", "cre"))
+Depends:
+    dplyr
+Description: This package follows the Monty Hall 3 Doors problem and determines whether choosing to "STAY" or "SWITCH" doors, has a higher probability of winning the car prize. 
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
